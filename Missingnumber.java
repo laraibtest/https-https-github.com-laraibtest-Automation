@@ -14,7 +14,7 @@ public class Missingnumber {
 	System.out.println(sum);
 	
 
-int sum1=0;
+int sum1=0, sum2=0;
 
 for(int j=0;j<=5;j++)
 {
